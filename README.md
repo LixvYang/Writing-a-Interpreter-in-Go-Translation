@@ -43,8 +43,8 @@
   - [4.6](contents/4/4.6.md)
 - [资源](contents/Resources.md)
 ## 阅读以及PDF下载
-- [在github上阅读本书)](contents/Acknowledgments.md))
-- [英文版PDF下载](thorsten-ball-writing-an-interpreter-in-go-2017pdf.pdf)
+- [在github上阅读本书)](contents/Acknowledgments.md)
+- [英文版PDF下载]()
 
 ## 免责声明
 本人纯属兴趣翻译此书。本人承诺绝不以此译文以任何形式牟利。也坚决拒绝其他任何人以此牟利。**本译文只做学习与交流用途**。[@Lixin](https://github.com/ylx621)保留对译文的署名权以及其他权力，若有人以此译文进行侵权或者违反知识产权行为与本人无关。
