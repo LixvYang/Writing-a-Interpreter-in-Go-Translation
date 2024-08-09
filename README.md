@@ -50,10 +50,6 @@
 ## 免责声明
 本人纯属兴趣翻译此书。本人承诺绝不以此译文以任何形式牟利。也坚决拒绝其他任何人以此牟利。**本译文只做学习与交流用途**。[@Lixin](https://github.com/lixvyang)保留对译文的署名权以及其他权力，若有人以此译文进行侵权或者违反知识产权行为与本人无关。
 
-<a href="https://donate.cafe/lixinyang">
-  <img style="width:150px" src="https://newbie.zeromesh.net/donate.7.6.svg" />
-</a>
-
 ## MIT License
 Copyright (c) 2021 Lixin
 
